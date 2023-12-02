@@ -1,4 +1,4 @@
-# Zomato-Analysis
+# Zomato-Data-Analysis
 Zomato Data Analysis - Explore the world of Zomato restaurant data through Python and data analysis. Uncover trends and insights using Pandas for data manipulation and Matplotlib for visualization. Project has dashboard by using a PowerBI tool
 
 Dashboard -
